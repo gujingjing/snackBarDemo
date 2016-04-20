@@ -1,0 +1,6 @@
+.gradle/2.8/
+.idea/
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+gradlew
+gradlew.bat

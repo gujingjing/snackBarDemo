@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\range_seek_bar_bg_m.png",
+        "source": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\src\\main\\res\\drawable-hdpi\\range_seek_bar_bg_m.png"
+    },
+    {
+        "merged": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\range_seek_bar_progress.png",
+        "source": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\src\\main\\res\\drawable-hdpi\\range_seek_bar_progress.png"
+    },
+    {
+        "merged": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tjq.png",
+        "source": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\src\\main\\res\\drawable-hdpi\\tjq.png"
+    },
+    {
+        "merged": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\range_seek_bar_bg_l.png",
+        "source": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\src\\main\\res\\drawable-hdpi\\range_seek_bar_bg_l.png"
+    },
+    {
+        "merged": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\range_seek_bar_imb_pressed.png",
+        "source": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\src\\main\\res\\drawable-hdpi\\range_seek_bar_imb_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\range_seek_bar_bg_r.png",
+        "source": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\src\\main\\res\\drawable-hdpi\\range_seek_bar_bg_r.png"
+    },
+    {
+        "merged": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_on.png",
+        "source": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\src\\main\\res\\drawable-hdpi\\pay_on.png"
+    },
+    {
+        "merged": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mark.png",
+        "source": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\src\\main\\res\\drawable-hdpi\\mark.png"
+    },
+    {
+        "merged": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rect.png",
+        "source": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\src\\main\\res\\drawable-hdpi\\rect.png"
+    },
+    {
+        "merged": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\range_seek_bar_imb.png",
+        "source": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\src\\main\\res\\drawable-hdpi\\range_seek_bar_imb.png"
+    }
+]

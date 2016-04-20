@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\seek_thumb_pressed.png",
+        "source": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\src\\main\\res\\drawable-ldpi\\seek_thumb_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\seek_thumb_normal.png",
+        "source": "C:\\Users\\gjj\\Desktop\\day\\04.07\\yaoRange\\app\\src\\main\\res\\drawable-ldpi\\seek_thumb_normal.png"
+    }
+]
